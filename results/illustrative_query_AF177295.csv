@@ -1,0 +1,12 @@
+role,rank,acc,gene,genus,phylum,organism,length,gc,gc_diff_from_query,same_gene,same_genus
+query,0,AF177295.1,rpoB,Helicobacter,Proteobacteria,Helicobacter pylori,691,0.3979739507959479,0.0,True,True
+neighbor,1,LC595343.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4055555555555555,0.007581604759607619,False,True
+neighbor,2,LC595344.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4055555555555555,0.007581604759607619,False,True
+neighbor,3,LC595339.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4055555555555555,0.007581604759607619,False,True
+neighbor,4,LC595346.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4022222222222222,0.004248271426274319,False,True
+neighbor,5,LC595342.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4,0.0020260492040521383,False,True
+neighbor,6,LC783143.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4011111111111111,0.003137160315163201,False,True
+neighbor,7,LC783139.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4055555555555555,0.007581604759607619,False,True
+neighbor,8,LC783138.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4044444444444444,0.0064704936484965,False,True
+neighbor,9,PV567407.1,dnaK,Bacillus,Firmicutes,Bacillus cereus,900,0.4044444444444444,0.0064704936484965,False,False
+neighbor,10,LC595341.1,gyrB,Helicobacter,Proteobacteria,Helicobacter pylori,900,0.4077777777777778,0.00980382698182991,False,True
